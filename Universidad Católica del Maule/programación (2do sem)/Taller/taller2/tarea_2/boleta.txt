@@ -1,0 +1,19 @@
+Autor: Williams Campos
+
+Codigo:		Producto:						Precio:			Ajuste:			Precio Venta: 
+==========================================================================================
+1    		Harina                   		1050           	2              	1071.0         
+2    		Aceite                   		1450           	0              	1450.0         
+3    		Azúcar                  		950            	0              	950.0          
+4    		Arroz g1                 		1350           	1.2            	1366.2         
+5    		Arroz g2                 		1250           	0              	1250.0         
+6    		Carne filetes pollo 500 gr.		3500           	0              	3500.0         
+7    		Carne molida vacuno 500 gr.		5000           	2              	5100.0         
+8    		Carne molida pavo 500 gr.		3700           	-0.5           	3681.5         
+9    		Chuletas de cerdo 1k     		6000           	0              	6000.0         
+10   		Lomo vacuno 1k           		10700          	3.5            	11074.5        
+11   		Porotos 1k               		3200           	0              	3200.0         
+12   		Garbanzos 1k             		3500           	-0.5           	3482.5         
+13   		Lentejas 1k              		2850           	7.0            	3049.5         
+==========================================================================================
+                                                                    Total: $45175.2

@@ -1,0 +1,41 @@
+Autor: Williams Campos
+
+Cantidad de casos secuenciados por region:
+
+	arica: 52
+
+	tarapaca: 140
+
+	antofagasta: 86
+
+	atacama: 48
+
+	coquimbo: 71
+
+	valparaiso: 69
+
+	metropolitana: 0
+
+	o higgins: 48
+
+	maule: 17
+
+	nuble: 18
+
+	bio bio: 49
+
+	araucania: 13
+
+	los rios: 35
+
+	los lagos: 66
+
+	aysen: 4
+
+	magallanes: 38
+
+Cantidad de casos negativos en abril 23: 726
+
+Cantidad de casos negativos en Yunco: 42
+
+Incidecias 06/2023 del 'Lile': 10

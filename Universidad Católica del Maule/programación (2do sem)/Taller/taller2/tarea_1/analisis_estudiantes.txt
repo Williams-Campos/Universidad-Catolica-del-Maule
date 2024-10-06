@@ -1,0 +1,13 @@
+#Autor Williams Campos
+
+============================================================
+Estudiante:		Promedio:	Nota maxima:	Nota Minima:
+Ana            	8.5            	10             	7              
+Julia          	8.5            	10             	7              
+Adriana        	8.5            	10             	7              
+Benjamin       	8.5            	10             	7              
+Diego          	8.5            	10             	7              
+Juan           	7.25           	10             	4              
+Maria          	9.0            	10             	8              
+Pedro          	7.5            	9              	6              
+============================================================
